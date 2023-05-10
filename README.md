@@ -5,6 +5,6 @@
 
 请加微信号hawapple
 
-首页
-https://github.com/gongzenghui/newlife/blob/main/%E9%A6%96%E9%A1%B5.jpg
+![首页]（https://github.com/gongzenghui/newlife/blob/main/%E9%A6%96%E9%A1%B5.jpg）
+
 
